@@ -1,5 +1,9 @@
 
 # new-project
-this is a test project for the first lesson
+This is a test project for the first lesson.
 
-not sure if I am keeping this project anyways
+Not sure if I am keeping this project anyways.
+
+Edit1: blah blah.
+
+
